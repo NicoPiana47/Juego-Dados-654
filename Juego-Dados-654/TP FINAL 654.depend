@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1638315055 source:c:\users\piana sampietro\desktop\nico utn materias\laboratorio\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1644616937 c:\users\piana sampietro\desktop\nico utn materias\laboratorio\tp final 654\funciones.h
+
+1571584339 c:\users\piana sampietro\desktop\nico utn materias\laboratorio\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636474697 source:c:\users\nacho\desktop\tp final nuevo\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\nacho\desktop\tp final nuevo\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636477400 c:\users\nacho\desktop\tp final nuevo\tp final 654\funciones.h
+
+1638140687 source:c:\users\nacho\desktop\juego dados\tp_final_654 (5)\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\nacho\desktop\juego dados\tp_final_654 (5)\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638135576 c:\users\nacho\desktop\juego dados\tp_final_654 (5)\tp final 654\funciones.h
+
+1645042826 source:c:\users\piana sampietro\desktop\nico utn materias\laboratorio\c1\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\piana sampietro\desktop\nico utn materias\laboratorio\c1\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1645042842 c:\users\piana sampietro\desktop\nico utn materias\laboratorio\c1\tp final 654\funciones.h
+
+1650392558 source:c:\users\facus\desktop\nico utn materias\laboratorio i\c1\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571584340 c:\users\facus\desktop\nico utn materias\laboratorio i\c1\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1650392596 c:\users\facus\desktop\nico utn materias\laboratorio i\c1\tp final 654\funciones.h
+
+1657662262 source:c:\users\facus\desktop\nico utn materias\cuatri 1\laboratorio i\tp final 654\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571584340 c:\users\facus\desktop\nico utn materias\cuatri 1\laboratorio i\tp final 654\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656959940 c:\users\facus\desktop\nico utn materias\cuatri 1\laboratorio i\tp final 654\funciones.h
+
